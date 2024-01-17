@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png" alt="background" width="70%">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png" alt="background" width="70% style="border-radius: 20px;">
+</p>
 
 ### Hi 👋, I'm Reza
 I am an enthusiast in Geospatial, Data Science, and Data Analysis. Through this repository, I share projects that reflect my interests and expertise in these fields.
