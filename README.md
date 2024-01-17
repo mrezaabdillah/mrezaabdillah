@@ -4,8 +4,8 @@
 </p>
 
 
-<div style="text-align: center;">
-  <h3 style="margin: 0;">Hi 👋, I'm Reza</h3>
+<div>
+  <h3 align="center">Hi 👋, I'm Reza</h3>
 </div>
 
 
