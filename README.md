@@ -15,17 +15,17 @@
 <hr>
 
 <p>
-  🌍 <strong>Geospatial Enthusiast:</strong><br>
+  🌍 <strong>Geospatial Enthusiast</strong><br>
   Passionate about exploring spatial data and mapping. I actively contribute to projects related to satellite image processing, geographic analysis, and the development of location-based applications.
 </p>
 
 <p>
-  📊 <strong>Data Science Explorer:</strong><br>
+  📊 <strong>Data Science Explorer</strong><br>
   I have experience in designing and implementing machine learning models to extract valuable insights from data. This repository contains projects related to prediction, classification, and data analysis that I have worked on.
 </p>
 
 <p>
-  📈 <strong>Data Analyst Enthusiast:</strong><br>
+  📈 <strong>Data Analyst Enthusiast</strong><br>
   Analyzing data to gain meaningful insights is one of my strengths. I enjoy exploring datasets, creating informative visualizations, and providing data-driven solutions.
 </p>
 
