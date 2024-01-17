@@ -33,7 +33,7 @@
   🚀 Feel free to explore my repository and provide feedback. I believe that collaboration and knowledge sharing can take us further. Let's connect and build something great together!
 </p>
 
-<div style="text-align: center;">
-  <p>Thanks for visiting. 🙌</p>
+<div>
+  <p align="center">Thanks for visiting 🙌</p>
 </div>
 
