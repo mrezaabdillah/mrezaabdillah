@@ -6,13 +6,13 @@
 
 <div style="text-align: center;">
   <h3 style="margin: 0;">Hi 👋, I'm Reza</h3>
-  <hr>
 </div>
 
 
 <p>
   I am an enthusiast in Geospatial, Data Science, and Data Analysis. Through this repository, I share projects that reflect my interests and expertise in these fields.
 </p>
+<hr>
 
 <p>
   🌍 <strong>Geospatial Enthusiast:</strong><br>
