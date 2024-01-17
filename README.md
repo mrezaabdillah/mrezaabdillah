@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png" alt="background" width="70% style="border-radius: 20px;">
 </p>
 
-<div style="text-align: center;">
-  <h3 style="margin: 0;">Hi 👋, I'm Reza</h3>
+<div>
+  <h3 style="text-align: center;">Hi 👋, I'm Reza</h3>
 </div>
 
 <p>
