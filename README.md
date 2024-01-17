@@ -1,4 +1,4 @@
-![Background]([https://github.com/username/repo/blob/main/images/logo.png](https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png)
+![Background](https://github.com/username/repo/blob/main/images/logo.png](https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png)
 
 ### Hi 👋, I'm Reza
 I am an enthusiast in Geospatial, Data Science, and Data Analysis. Through this repository, I share projects that reflect my interests and expertise in these fields.
