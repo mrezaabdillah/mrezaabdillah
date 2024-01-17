@@ -4,7 +4,7 @@
 </p>
 
 <div style="text-align: center;">
-  <h3>Hi 👋, I'm Reza</h3>
+  <h3 style="margin: 0;">Hi 👋, I'm Reza</h3>
 </div>
 
 <p>
