@@ -1,4 +1,4 @@
-![Background](https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png)
+<img src="https://raw.githubusercontent.com/mrezaabdillah/mrezaabdillah/main/image/dashboard.png" alt="background" width="70%">
 
 ### Hi 👋, I'm Reza
 I am an enthusiast in Geospatial, Data Science, and Data Analysis. Through this repository, I share projects that reflect my interests and expertise in these fields.
