@@ -16,7 +16,7 @@
 
 <p>
   🌍 <strong>Geospatial Enthusiast</strong><br>
-  Passionate about exploring spatial data and mapping. I actively contribute to projects related to satellite image processing, geographic analysis, and the development of location-based applications.
+  Passionate about exploring spatial data and mapping. I actively contribute to projects related to spatial analysis.
 </p>
 
 <p>
